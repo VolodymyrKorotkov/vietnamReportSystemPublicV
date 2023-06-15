@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="exportExcelMainDailyReport" class="com.korotkov.mainCurrentApp.service.file.ExportExcelMainDailyReport"/>
+    <bean id="exportExcelCollectionCommonDataWithAssignedCollectorReport" class="com.korotkov.mainCurrentApp.service.file.ExportExcelCollectionCommonDataWithAssignedCollectorReport"/>
+    <bean id="exportExcelPreSoftBonusReport" class="com.korotkov.mainCurrentApp.service.file.ExportExcelPreSoftBonusReport"/>
+    <bean id="exportExcelStagesWithAssignedBonusReport" class="com.korotkov.mainCurrentApp.service.file.ExportExcelStagesWithAssignedBonusReport"/>
+    <bean id="exportExcelPaymentsWithFeesReport" class="com.korotkov.mainCurrentApp.service.file.ExportExcelPaymentsWithFeesReport"/>
+    <bean id="exportClientDocumentsForCheckInsuranceReport" class="com.korotkov.mainCurrentApp.service.file.ExportClientDocumentsForCheckInsuranceReport"/>
+    <bean id="exportLoansInfoExpiredInfoReport" class="com.korotkov.mainCurrentApp.service.file.ExportLoansInfoExpiredInfoReport"/>
+    <bean id="exportPreSoftPtPCalls" class="com.korotkov.mainCurrentApp.service.file.ExportPreSoftPtPCalls"/>
+    <bean id="excelExportScoringModelData" class="com.korotkov.mainCurrentApp.scoringMachine.service.file.ExcelExportScoringModelData"/>
+    <bean id="excelExportTestOfModelData" class="com.korotkov.mainCurrentApp.scoringMachine.service.file.ExcelExportTestOfModelData"/>
+    <bean id="exportAppAndLoansWithSourceReport" class="com.korotkov.mainCurrentApp.service.file.ExportAppAndLoansWithSourceReport"/>
+    <bean id="exportLoansBySourceReport" class="com.korotkov.mainCurrentApp.service.file.ExportLoansBySourceReport"/>
+    <bean id="exportAppsBySourceReport" class="com.korotkov.mainCurrentApp.service.file.ExportAppsBySourceReport"/>
+    <bean id="exportLoansAndPaymentsGroupByDateReport" class="com.korotkov.mainCurrentApp.service.file.ExportLoansAndPaymentsGroupByDateReport"/>
+    <bean id="exportExcelDateHourCountAmountPaymentReport" class="com.korotkov.mainCurrentApp.service.file.ExportExcelDateHourCountAmountPaymentReport"/>
+    <bean id="exportExcelDateHourCountAmountLoanReport" class="com.korotkov.mainCurrentApp.service.file.ExportExcelDateHourCountAmountLoanReport"/>
+    <bean id="exportExcelUnderwriterResultWithAppReport" class="com.korotkov.mainCurrentApp.service.file.ExportExcelUnderwriterResultWithAppReport"/>
+    <bean id="exportAppsProcessedByUnderwriterReport" class="com.korotkov.mainCurrentApp.service.file.ExportAppsProcessedByUnderwriterReport"/>
+    <bean id="exportAppByUnderwriterPerHourReport" class="com.korotkov.mainCurrentApp.service.file.ExportAppByUnderwriterPerHourReport"/>
+    <bean id="exportApplicationsInfoDateReport" class="com.korotkov.mainCurrentApp.service.file.ExportApplicationsInfoDateReport"/>
+    <bean id="exportRefundOverpaymentsReport" class="com.korotkov.mainCurrentApp.service.file.ExportRefundOverpaymentsReport"/>
+    <bean id="exportDeactivatedPaymentsReport" class="com.korotkov.mainCurrentApp.service.file.ExportDeactivatedPaymentsReport"/>
+    <bean id="exportPassiveClientsForSmsReport" class="com.korotkov.mainCurrentApp.service.file.ExportPassiveClientsForSmsReport"/>
+    <bean id="exportPaymentForCrossCheckerReport" class="com.korotkov.mainCurrentApp.service.file.ExportPaymentForCrossCheckerReport"/>
+    <bean id="exportLoanForCrossCheckerReport" class="com.korotkov.mainCurrentApp.service.file.ExportLoanForCrossCheckerReport"/>
+    <bean id="exportAnalyticalReportRepayment" class="com.korotkov.mainCurrentApp.service.file.ExportAnalyticalReportRepayment"/>
+</beans>

@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head>
+<title></title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="x-apple-disable-message-reformatting">
+    <style type="text/css">
+        #outlook a {
+            padding: 0;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-size: 16px;
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+
+        table,
+        td {
+            border-collapse: collapse;
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+
+        img {
+            border: 0;
+            height: auto;
+            line-height: 100%;
+            outline: none;
+            text-decoration: none;
+            -ms-interpolation-mode: bicubic;
+        }
+
+        a {
+            color: #0000ee;
+            text-decoration: none;
+        }
+
+        .ii a {
+            color: #0000ee;
+            text-decoration: none;
+        }
+
+        p,
+        ul {
+            display: block;
+            margin: 0;
+        }
+
+        @media only screen and (min-width: 480px) {
+            .res-col-1 {
+                width: 8.33% !important;
+            }
+            .res-col-2 {
+                width: 16.67% !important;
+            }
+            .res-col-3 {
+                width: 25% !important;
+            }
+            .res-col-4 {
+                width: 33.33% !important;
+            }
+            .res-col-5 {
+                width: 41.67% !important;
+            }
+            .res-col-6 {
+                width: 50% !important;
+            }
+            .res-col-7 {
+                width: 58.33% !important;
+            }
+            .res-col-8 {
+                width: 66.67% !important;
+            }
+            .res-col-9 {
+                width: 75% !important;
+            }
+            .res-col-10 {
+                width: 83.33% !important;
+            }
+            .res-col-11 {
+                width: 91.67% !important;
+            }
+            .res-col-12 {
+                width: 100% !important;
+            }
+        }
+        .res {
+            width: 100%;
+        }
+        .no-res-col-1 {
+            width: 8%;
+        }
+        .no-res-col-2 {
+            width: 16%;
+        }
+        .no-res-col-3 {
+            width: 24%;
+        }
+        .no-res-col-4 {
+            width: 33%;
+        }
+        .no-res-col-5 {
+            width: 41%;
+        }
+        .no-res-col-6 {
+            width: 49%;
+        }
+        .no-res-col-7 {
+            width: 58%;
+        }
+        .no-res-col-8 {
+            width: 66%;
+        }
+        .no-res-col-9 {
+            width: 74.5%;
+        }
+        .no-res-col-10 {
+            width: 83%;
+        }
+        .no-res-col-11 {
+            width: 91%;
+        }
+        .no-res-col-12 {
+            width: 100%;
+        }
+
+        @media only screen and (max-width: 480px) {
+            img.fullwidth {
+                max-width: 100% !important;
+            }
+        }
+    </style>
+
+    <!--[if mso]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+
+    <!--[if !mso]><!-->
+    <style>
+        li { display: list-item; }
+    </style>
+    <!--<![endif]-->
+
+    <!--[if lte mso 11]>
+    <style type="text/css">
+        .outlook-group-fix {
+            width:100% !important;
+        }
+    </style>
+    <![endif]-->
+
+    <!--[if !mso]><!-->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <style type="text/css">
+        @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+    </style>
+    <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet" type="text/css">
+    <style type="text/css">
+        @import url('https://fonts.googleapis.com/css?family=Pacifico');
+    </style>
+    <!--<![endif]-->
+
+</head>
+
+<body width="100%" bgcolor="#f7f7f7" style="margin: 0; mso-line-height-rule: exactly; background-color: #f7f7f7;">
+<div style="background-color: #f7f7f7; font-family: Arial,sans-serif;">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin: 0; padding: 0;  background-color: #f7f7f7;">
+        <tbody><tr>
+            <td align="center" valign="top" bgcolor="" style="padding: 15px 15px 15px 15px; background-color: #eeeeee;">
+                <!--[if mso | IE]>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px; background-color: #eeeeee">
+                    <tr>
+                        <td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+                <![endif]-->
+                <div style="margin:0px auto;max-width:600px; background-color: #eeeeee">
+                    <table cellpadding="0" cellspacing="0" style="font-size:0px;width:100%;" align="center" border="0">
+                        <tbody>
+                        <tr>
+                            <td style="text-align:center;vertical-align:top;direction:ltr;font-size:0px;" bgcolor="#ffffff">
+                                <!--[if mso | IE]>
+                                <table border="0" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                <![endif]-->
+
+                                <!--[if mso | IE]>
+                                <td style="vertical-align:top;width:600px;">
+                                <![endif]-->
+                                <div class="res res-col-12 outlook-group-fix" style="vertical-align:top;display:inline-block;direction:ltr;font-size:16px;text-align:left;">
+                                    <table cellpadding="0" cellspacing="0" width="100%" border="0">
+                                        <tbody>
+                                        <tr>
+                                            <td style="overflow-wrap: break-word;padding: 0px;" align="center">
+
+                                                <table cellpadding="0" cellspacing="0" width="100%" border="0">
+                                                    <tbody>
+                                                    <tr>
+                                                        <td style="overflow-wrap: break-word;padding:0px 15px 5px 15px;" align="center">
+                                                            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                                                <tbody><tr>
+                                                                    <td style="padding-right: 0px; padding-left: 0px;" align="center">
+
+                                                                        <img width="150" height="150" align="center" border="0" src="https://d2w8fg8ddx8k5w.cloudfront.net/admin/temp/0b0f990320e0d7a3e95df5039365c824/newsletters/158012/5532d4d48538be2b120a4899ed90017a_zetamail.png" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;width: 25%;max-width: 100%;" class="fullwidth">
+
+                                                                    </td>
+                                                                </tr>
+                                                                </tbody></table>
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
+
+                                                <table cellpadding="0" cellspacing="0" width="100%" border="0">
+                                                    <tbody>
+                                                    <tr>
+                                                        <td style="overflow-wrap: break-word;padding:15px 15px 15px 15px; color: #000000; line-height:1.5; font-family: Arial,sans-serif; font-size:16px;" align="left">
+                                                            <div><span style="color: #000; font-size: 24px;"><strong>Xin chào, anh/chị $clientName!</strong></span></div>
+                                                            <div><span style="color: #000; font-size: 20px;">Xác nhận email để <span style="color: #109e03;"><strong>nhận ngay 1 lượt quay may mắn</strong></span> đến từ Tiền Ơi nào! Xác nhận ngay!</span></div>
+                                                            <div><span style="color: #000; font-size: 20px;">Vui lòng nhấn vào nút <span style="color: #ff0000;">"<strong>BÁO CÁO KHÔNG PHẢI LÀ SPAM" </strong></span><strong>để&nbsp;</strong><span style="color: #ff0000;"><strong><span style="color: #000000;">nhận thông báo và các </span></strong></span><strong>ưu đãi</strong><span style="color: #ff0000;"><strong><span style="color: #000000;"> mới nhất từ Tiền Ơi</span></strong></span></span></div>
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
+
+                                                <table cellpadding="0" cellspacing="0" width="100%" border="0">
+                                                    <tbody>
+                                                    <tr>
+                                                        <td style="overflow-wrap: break-word;padding:15px 15px 15px 15px;" align="center">
+                                                            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                                                <tbody><tr>
+                                                                    <td style="padding-right: 0px; padding-left: 0px;" align="center">
+
+                                                                        <img width="600" height="88" align="center" border="0" src="https://d2w8fg8ddx8k5w.cloudfront.net/admin/temp/0b0f990320e0d7a3e95df5039365c824/newsletters/158012/e40c3762ad847ec8e7c25cf3efb0e69c_zetamail.png" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;width: 100%;max-width: 100%;" class="fullwidth">
+
+                                                                    </td>
+                                                                </tr>
+                                                                </tbody></table>
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
+
+                                                <table cellpadding="0" cellspacing="0" width="100%" border="0">
+                                                    <tbody>
+                                                    <tr>
+                                                        <td style="overflow-wrap: break-word;padding:15px 15px 15px 15px;" align="center">
+                                                            <div align="center">
+                                                                <!--[if mso]>
+                                                                <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                                                    <tr>
+                                                                        <td align="center">
+                                                                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="$verificationUrl" style="height:53px; v-text-anchor:middle; width:229px;" arcsize="0.07547169811320754%" stroke="f" fillcolor="#008000">
+                                                                                <w:anchorlock/>
+                                                                                <center style="color:#fff; font-family:inherit;">
+                                                                <![endif]-->
+                                                                <a href="$verificationUrl" target="_blank" style="display: inline-block; text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #fff; background-color: #008000; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; width: auto; padding: 10px 20px 10px 20px; font-family: inherit; mso-border-alt: none; border-width: 0px; border-style: solid; border-color: green;">
+                                                                    <div><span style="font-size: 22px;"><strong>XÁC NHẬN NGAY&nbsp;</strong></span></div>
+                                                                </a>
+                                                                <!--[if mso]>
+                                                                </center>
+                                                                </v:roundrect>
+                                                                </td>
+                                                                </tr>
+                                                                </table>
+                                                                <![endif]-->
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
+
+                                                <table cellpadding="0" cellspacing="0" width="100%" border="0">
+                                                    <tbody>
+                                                    <tr>
+                                                        <td style="overflow-wrap: break-word;padding:15px 15px 15px 15px; color: #000000; line-height:1.5; font-family: Arial,sans-serif; font-size:16px;" align="left">
+                                                            <div><span style="color: #000; font-size: 18px;"><b><i>Xem thêm:</i></b></span></div>
+                                                            <div><span style="color: #000; font-size: 16px; text-decoration: underline;"><span style="color: #059607;"><a href="https://tienoi.com.vn/wheeloffortune/" target="_blank" style="color: #059607;" rel="noopener"><span style="font-size: 18px;"><i>Chương trình vòng quay may mắn</i></span></a></span></span></div>
+                                                            <div><span style="font-size: 16px; color: #059607;"><span style="text-decoration: underline;"><a href="https://youtu.be/R9t_5CLyJNg" target="_blank" style="color: #059607;" rel="noopener"><span style="font-size: 18px;"><i>Video hướng dẫn</i></span></a></span><span style="font-size: 18px;"><b><i></i></b></span></span></div>
+                                                            <div><a style="color: #0000ee;" href="https://player.vimeo.com/video/734308934?h=6eab2ba9d9" target="_blank" rel="noopener"><span style="color: #059607;"><span style="text-decoration: underline;"><span style="font-size: 18px;"><i>Hướng dẫn vay tiền Ơi</i></span></span></span></a></div>
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
+
+                                                <table cellpadding="0" cellspacing="0" width="100%" border="0">
+                                                    <tbody>
+                                                    <tr>
+                                                        <td style="overflow-wrap: break-word;padding:15px 15px 15px 15px;" align="center">
+                                                        <div style="text-align: center;">
+                                                            <div style="border-top-width: 1px; border-top-style: solid; border-top-color: #ADADAD; display: inline-block; width: 90%; line-height: 1px; font-size: 1px; height: 1px;">&nbsp;</div>
+                                                        </div>
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
+
+                                                <table cellpadding="0" cellspacing="0" width="100%" border="0">
+                                                    <tbody>
+                                                    <tr>
+                                                        <td style="overflow-wrap: break-word;padding:15px 15px 15px 15px; color: #000000; line-height:1.5; font-family: Arial,sans-serif; font-size:16px;" align="left">
+                                                            <div><em>Đội ngũ <a style="color: #0000ee;" href="https://tienoi.com.vn/">Tiền Ơi</a></em></div>
+                                                            <div><em>Thân gửi đến bạn!</em></div>
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
+
+                                                <table cellpadding="0" cellspacing="0" width="100%" border="0">
+                                                    <tbody>
+                                                    <tr align="center">
+                                                        <td style="overflow-wrap: break-word;padding:15px 15px 15px 15px; background-color: #ffffff" align="center">
+
+                                                            <table cellpadding="0" cellspacing="0" border="0">
+                                                                <tbody><tr align="center">
+
+                                                                    <td style="display:inline-block;padding: 11px;">
+                                                                        <a style="color: #0000ee;" href="https://www.facebook.com/www.tienoi.com.vn" target="_blank">
+                                                                            <img align="center" border="0" src="https://app.zetamail.vn/campaign/icons/facebook.png" alt="facebook" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 100%;" class="fullwidth">
+                                                                        </a>
+                                                                    </td>
+
+                                                                    <td style="display:inline-block;padding: 11px;">
+                                                                        <a style="color: #0000ee;" href="https://www.youtube.com/channel/UCBGAI1X_gE6VWpnJ7qf5CNw" target="_blank">
+                                                                            <img align="center" border="0" src="https://app.zetamail.vn/campaign/icons/youtube.png" alt="youtube" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 100%;" class="fullwidth">
+                                                                        </a>
+                                                                    </td>
+
+                                                                </tr>
+                                                                </tbody></table>
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
+
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <!--[if mso | IE]>
+                                </td>
+                                <![endif]-->
+
+                                <!--[if mso | IE]>
+                                </tr>
+                                </table>
+                                <![endif]-->
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <!--[if mso | IE]>
+                </td>
+                </tr>
+                </table>
+                <![endif]-->
+            </td>
+        </tr>
+        </tbody></table>
+</div>
+
+
+</body>
+</html>
